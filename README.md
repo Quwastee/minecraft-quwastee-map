@@ -1,60 +1,60 @@
-# 🗺️ Minecraft Questy Map
+# 🗺️ Quwastee Map
 
 <p align="center">
-  <img src="logo.png" alt="Minecraft Questy Map" width="128">
+  <img src="logo.png" alt="Quwastee Map" width="128">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Quwastee/minecraft-questy-map">
-    <img src="https://img.shields.io/badge/GitHub-Questy%20Map-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://github.com/Quwastee/quwastee-map">
+    <img src="https://img.shields.io/badge/GitHub-Quwastee%20Map-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://modrinth.com/mod/questy-map">
-    <img src="https://img.shields.io/badge/Modrinth-Questy%20Map-00AF5C?style=for-the-badge&logo=modrinth" alt="Modrinth">
+  <a href="https://modrinth.com/mod/quwastee-map">
+    <img src="https://img.shields.io/badge/Modrinth-Quwastee%20Map-00AF5C?style=for-the-badge&logo=modrinth" alt="Modrinth">
   </a>
 </p>
 
 <p align="center">
-  <strong>A Minecraft map and quest-focused project designed for exploration and adventure.</strong>
+  <strong>A Minecraft map project focused on exploration, adventure, and discovery.</strong>
 </p>
 
 ---
 
 ## 📖 About
 
-**Minecraft Questy Map** is a Minecraft project focused on exploration, quests, progression, and discovering the world around you.
+**Quwastee Map** is a Minecraft map project focused on exploration, adventure, progression, and discovering the world around you.
 
-The project is designed to provide a structured adventure experience where exploration and objectives work together to create a clear sense of progression.
+The project is designed to provide a structured and engaging experience built around exploration and carefully prepared locations.
 
-Questy Map can serve as a foundation for future adventures, custom content, and other projects connected to the Quwastee ecosystem.
+Quwastee Map can also serve as a foundation for future content and other projects within the Quwastee ecosystem.
 
 ---
 
 ## ✨ Features
 
 * 🗺️ **Exploration** — discover locations and explore the world
-* 📜 **Quests** — complete objectives and progress through the adventure
-* 🎯 **Progression** — follow a structured path through the content
-* 🧭 **Adventure-focused** — designed around exploration and discovery
-* 🔧 **Expandable** — prepared for future content and improvements
-* 🌍 **Minecraft Integration** — built specifically for the Minecraft experience
+* 🧭 **Adventure** — experience a world designed for exploration
+* 🎯 **Progression** — follow objectives and discover new areas
+* 🌍 **Custom World** — dedicated map content created for the project
+* 🔧 **Expandable** — designed for future updates and additional content
+* 🚀 **Quwastee Ecosystem** — prepared for future integration with other Quwastee projects
 
 ---
 
 ## 🎮 Minecraft Compatibility
 
-| Questy Map | Minecraft | Status   |
-| ---------- | --------- | -------- |
-| **1.0.0**  | **26.3**  | ✅ Stable |
+| Quwastee Map | Minecraft | Status   |
+| ------------ | --------- | -------- |
+| **1.0.0**    | **26.3**  | ✅ Stable |
 
-More supported versions will be documented as they become available.
+Additional Minecraft versions will be listed here as they become supported.
 
 ---
 
 ## 🧩 Related Projects
 
-Questy Map may be connected with other Quwastee projects and libraries in the future.
+Quwastee Map may be connected with other Quwastee projects in the future.
 
-Compatible projects will be added here as they are released.
+Compatible projects will be added to this section as they are released.
 
 | Project                      | Minecraft | Version | Status     | Links |
 | ---------------------------- | --------- | ------- | ---------- | ----- |
@@ -64,21 +64,19 @@ Compatible projects will be added here as they are released.
 
 ## 📦 Installation
 
-Install **Minecraft Questy Map** using the supported distribution available on its official project page.
+Download **Quwastee Map** from its official project page and follow the installation instructions provided for the corresponding Minecraft version.
 
-Before installing, make sure that your Minecraft version matches the version supported by the release.
+Make sure you are using the correct version for your Minecraft installation.
 
-> 💡 Always use the version of Questy Map intended for your Minecraft version.
+> 💡 Always check the release information before installing or updating the map.
 
 ---
 
 ## 👨‍💻 For Developers
 
-Questy Map is designed with future expansion and compatibility in mind.
+Quwastee Map is designed with future expansion and additional content in mind.
 
-Additional documentation, technical information, and integration details may be added as the project develops.
-
-Future releases may introduce new systems, content, and compatibility with other Quwastee projects.
+As the project develops, this repository may include more technical documentation, development information, and resources for creating or extending the map.
 
 ---
 
@@ -86,7 +84,7 @@ Future releases may introduce new systems, content, and compatibility with other
 
 Additional documentation will be added as the project grows.
 
-* 📌 [Changelog](CHANGELOG.md)
+* 📝 [Changelog](CHANGELOG.md)
 * 🗺️ [Roadmap](docs/ROADMAP.md)
 * 🤝 [Contributing](CONTRIBUTING.md)
 
@@ -96,8 +94,8 @@ Additional documentation will be added as the project grows.
 
 Official project resources:
 
-* 💻 [GitHub Repository](https://github.com/Quwastee/minecraft-questy-map)
-* 🟩 [Modrinth](https://modrinth.com/mod/questy-map)
+* 💻 [GitHub Repository](https://github.com/Quwastee/quwastee-map)
+* 🟩 [Modrinth](https://modrinth.com/mod/quwastee-map)
 
 > 🌱 More official resources and project links may be added here in the future.
 
@@ -107,27 +105,27 @@ Official project resources:
 
 Found a bug or have a suggestion?
 
-Please open an issue on [GitHub Issues](https://github.com/Quwastee/minecraft-questy-map/issues).
+Please open an issue on [GitHub Issues](https://github.com/Quwastee/quwastee-map/issues).
 
-When reporting a problem, please include:
+When reporting an issue, please include:
 
-* 🔢 Questy Map version
+* 🔢 Quwastee Map version
 * 🎮 Minecraft version
-* ⚙️ Mod loader and version
-* 📜 Relevant logs or crash reports
+* ⚙️ Relevant mod loader or environment information
+* 📜 Relevant logs or screenshots, if applicable
 * 📝 A clear description of the issue
 
 ---
 
 ## 📄 License
 
-Minecraft Questy Map is licensed under the [MIT License](LICENSE).
+Quwastee Map is licensed under the [MIT License](LICENSE).
 
 ---
 
 <p align="center">
 
-🗺️ **Minecraft Questy Map**
-*Explore. Complete. Discover.*
+🗺️ **Quwastee Map**
+*Explore. Discover. Experience.*
 
 </p>
