@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Quwastee/quwastee-map">
+  <a href="https://github.com/Quwastee/minecraft-quwastee-map">
     <img src="https://img.shields.io/badge/GitHub-Quwastee%20Map-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://modrinth.com/mod/quwastee-map">
@@ -94,7 +94,7 @@ Additional documentation will be added as the project grows.
 
 Official project resources:
 
-* 💻 [GitHub Repository](https://github.com/Quwastee/quwastee-map)
+* 💻 [GitHub Repository](https://github.com/Quwastee/minecraft-quwastee-map)
 * 🟩 [Modrinth](https://modrinth.com/mod/quwastee-map)
 
 > 🌱 More official resources and project links may be added here in the future.
@@ -105,7 +105,7 @@ Official project resources:
 
 Found a bug or have a suggestion?
 
-Please open an issue on [GitHub Issues](https://github.com/Quwastee/quwastee-map/issues).
+Please open an issue on [GitHub Issues](https://github.com/Quwastee/minecraft-quwastee-map/issues).
 
 When reporting an issue, please include:
 
