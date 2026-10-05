@@ -11,6 +11,9 @@
   <a href="https://modrinth.com/mod/quwastee-map">
     <img src="https://img.shields.io/badge/Modrinth-Quwastee%20Map-00AF5C?style=for-the-badge&logo=modrinth" alt="Modrinth">
   </a>
+  <a href="https://www.instagram.com/quwastee.workshop/">
+    <img src="https://img.shields.io/badge/Instagram-Quwastee%20Workshop-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
 <p align="center">
