@@ -21,72 +21,86 @@
 
 ## 📖 About
 
-**Quwastee Map** is a Minecraft map project focused on exploration, adventure, progression, and discovering the world around you.
+**Quwastee Map** is a Minecraft project focused on exploration, adventure, progression, and discovering the world around you.
 
 The project is designed to provide a structured and engaging experience built around exploration and carefully prepared locations.
 
-Quwastee Map can also serve as a foundation for future content and other projects within the Quwastee ecosystem.
+Quwastee Map is also intended to be part of the wider Quwastee ecosystem and is planned to use **Quwastee API** for shared functionality where appropriate.
 
 ---
 
 ## ✨ Features
 
-* 🗺️ **Exploration** — discover locations and explore the world
-* 🧭 **Adventure** — experience a world designed for exploration
-* 🎯 **Progression** — follow objectives and discover new areas
-* 🌍 **Custom World** — dedicated map content created for the project
-* 🔧 **Expandable** — designed for future updates and additional content
-* 🚀 **Quwastee Ecosystem** — prepared for future integration with other Quwastee projects
+- 🗺️ **Exploration** — discover locations and explore the world
+- 🧭 **Adventure** — experience a world designed around discovery
+- 🎯 **Progression** — follow objectives and explore new areas
+- 🌍 **Custom World** — dedicated map content created for the project
+- 🔧 **Expandable** — prepared for future updates and additional content
+- 🧩 **API Integration** — designed to work with Quwastee API as the shared technical foundation
 
 ---
 
 ## 🎮 Minecraft Compatibility
 
-| Quwastee Map | Minecraft | Status   |
-| ------------ | --------- | -------- |
-| **1.0.0**    | **26.3**  | ✅ Stable |
+| Quwastee Map | Minecraft | Status |
+| --- | --- | --- |
+| **0.1.0** | **26.3** | 🛠️ In Development |
 
-Additional Minecraft versions will be listed here as they become supported.
+Additional supported versions will be listed here as they become available.
 
 ---
 
-## 🧩 Related Projects
+## 🧩 Quwastee API
+
+Quwastee Map is planned to use **Quwastee API 1.0.0** for shared functionality where applicable.
+
+- 🛠️ [Quwastee API — GitHub](https://github.com/Quwastee/minecraft-quwastee-api)
+- 🟩 [Quwastee API — Modrinth](https://modrinth.com/mod/quwastee-api)
+
+> Keeping the API as a separate project allows common functionality to be shared with future Quwastee mods.
+
+---
+
+## 🧱 Related Projects
 
 Quwastee Map may be connected with other Quwastee projects in the future.
 
-Compatible projects will be added to this section as they are released.
+Compatible projects will be added here as they are released.
 
-| Project                      | Minecraft | Version | Status     | Links |
-| ---------------------------- | --------- | ------- | ---------- | ----- |
-| 🔜 More projects coming soon | —         | —       | 🕒 Planned | —     |
+| Project | Minecraft | Version | Status | Links |
+| --- | :---: | :---: | :---: | --- |
+| 🔌 **Quwastee API** | **26.3** | **1.0.0** | ✅ Stable | [GitHub](https://github.com/Quwastee/minecraft-quwastee-api) · [Modrinth](https://modrinth.com/mod/quwastee-api) |
+| 🔜 More projects coming soon | — | — | 🕓 Planned | — |
 
 ---
 
 ## 📦 Installation
 
-Download **Quwastee Map** from its official project page and follow the installation instructions provided for the corresponding Minecraft version.
+Install **Quwastee Map** from its official project page and follow the installation instructions for the corresponding release.
 
-Make sure you are using the correct version for your Minecraft installation.
+Make sure that your Minecraft version matches the version supported by the release you are installing.
 
-> 💡 Always check the release information before installing or updating the map.
+> 💡 Always check the release information before installing or updating Quwastee Map.
 
 ---
 
 ## 👨‍💻 For Developers
 
-Quwastee Map is designed with future expansion and additional content in mind.
+Quwastee Map is designed with future expansion and compatibility in mind.
 
-As the project develops, this repository may include more technical documentation, development information, and resources for creating or extending the map.
+As the project grows, this repository may include more technical documentation, development information, and resources for extending the project.
+
+Public development information will be added to the [`docs/`](docs/) directory over time.
 
 ---
 
 ## 📚 Documentation
 
-Additional documentation will be added as the project grows.
-
-* 📝 [Changelog](CHANGELOG.md)
-* 🗺️ [Roadmap](docs/ROADMAP.md)
-* 🤝 [Contributing](CONTRIBUTING.md)
+- 📌 [Versions & Compatibility](docs/VERSIONS.md)
+- 🧩 [Related Projects](docs/RELATED_PROJECTS.md)
+- 🗺️ [Roadmap](docs/ROADMAP.md)
+- 📝 [Changelog](CHANGELOG.md)
+- 🤝 [Contributing](CONTRIBUTING.md)
 
 ---
 
@@ -94,8 +108,8 @@ Additional documentation will be added as the project grows.
 
 Official project resources:
 
-* 💻 [GitHub Repository](https://github.com/Quwastee/minecraft-quwastee-map)
-* 🟩 [Modrinth](https://modrinth.com/mod/quwastee-map)
+- 💻 [GitHub Repository](https://github.com/Quwastee/minecraft-quwastee-map)
+- 🟩 [Modrinth](https://modrinth.com/mod/quwastee-map)
 
 > 🌱 More official resources and project links may be added here in the future.
 
@@ -105,15 +119,15 @@ Official project resources:
 
 Found a bug or have a suggestion?
 
-Please open an issue on [GitHub Issues](https://github.com/Quwastee/minecraft-quwastee-map/issues).
+Please open an issue on [**GitHub Issues**](https://github.com/Quwastee/minecraft-quwastee-map/issues).
 
 When reporting an issue, please include:
 
-* 🔢 Quwastee Map version
-* 🎮 Minecraft version
-* ⚙️ Relevant mod loader or environment information
-* 📜 Relevant logs or screenshots, if applicable
-* 📝 A clear description of the issue
+- 🔢 Quwastee Map version
+- 🎮 Minecraft version
+- ⚙️ Relevant mod loader or environment information
+- 📜 Relevant logs or screenshots, if applicable
+- 📝 A clear description of the issue
 
 ---
 
@@ -124,8 +138,6 @@ Quwastee Map is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-
-🗺️ **Quwastee Map**
-*Explore. Discover. Experience.*
-
+  🗺️ **Quwastee Map**  
+  <sub>Explore. Discover. Experience.</sub>
 </p>
